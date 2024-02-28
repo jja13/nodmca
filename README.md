@@ -25,6 +25,11 @@ Please give this repo a star if you want to host it!
 [![Stargazers over time](https://starchart.cc/radmanplays/radmanplays.github.io.svg)](https://starchart.cc/radmanplays/radmanplays.github.io)
 
 ## feel free to make a pull request
+
+## congrats
+![306994584-4f305587-8d78-4d7e-b041-d0eab8611f9a](https://github.com/Zad9119/MrzadCraft-OP/assets/110933110/7393244c-5673-4321-8b23-66edb3a74e41)
+
+
 ## if you have any questions go to the Discussions tap and ask your question there!
 ### the committed pull requests are updated on the site automaticlly
 ### if the website didnt work then use this github page : https://radmanplays.github.io/
