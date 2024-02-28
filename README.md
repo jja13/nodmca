@@ -1,4 +1,3 @@
-# this repo is the source code of this website (dmca'd): https://onlinemc.vercel.app/
 # PLEASE MAKE A FORK RN , THIS WILL BE DELETED
 ## Host the website
 
