@@ -1,10 +1,5 @@
-# PLEASE MAKE A FORK RN , THIS WILL BE DELETED
-## Host the website
+#### This is an archive that I will keep updated but I will not allow forks
 
-You can host this website on a cloud hosting solution like Replit or Render here.
-Please give this repo a star if you want to host it!
-<br>
+### Dear Mojang
 
-
-
-
+I Jasperscode am not infringing on your intellectual property. I am under the fair use guidelines making an ARCHIVE of the above files for HISTORICAL & ARCHIVLE purposes. Therefore for it would be unreasonable to take the ARCHIVE down under the Digital Millina Copyright Act. thanks you and have a wonderful day. 😀
